@@ -22,3 +22,5 @@ bmesh.ops.rotate(bm,
         space=S)
 
 bmesh.update_edit_mesh(me)
+
+# thanks for https://blender.stackexchange.com/questions/126928/bpy-ops-transform-rotate-ignores-pivot-point/143419
